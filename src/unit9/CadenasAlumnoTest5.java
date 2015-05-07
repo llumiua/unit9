@@ -14,6 +14,7 @@ public class CadenasAlumnoTest5 {
 		assertTrue(cd1.reemplazaTodos("jamonmonmon", "mon", "bon") == "jamonmonmon".replaceAll("mon", "bon"));
 	}
 
+	@Test
 	public void testReemplazaTodos2() {
 		System.out.println("Comparando dos cadenas...");
 		CadenasAlumno cd1 = new CadenasAlumno();
