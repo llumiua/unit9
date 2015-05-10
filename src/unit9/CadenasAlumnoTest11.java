@@ -4,6 +4,11 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+/**
+ * @author Luz Feliciano Sanjuan
+ * Métodos de las pruebas para comprobar que el funcionamiento del método empiezaCon 
+ * de la clase CadenasAlumno es el correcto
+ */
 public class CadenasAlumnoTest11 {
 
 	@Test

@@ -4,6 +4,12 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
+/**
+ * @author Luz Feliciano Sanjuan
+ *  Métodos de las pruebas para comprobar que el funcionamiento del método reemplazaTodos 
+	 * de la clase CadenasAlumno es el correcto
+ *
+ */
 public class CadenasAlumnoTest5 {
 
 	@Test

@@ -6,6 +6,11 @@ import org.junit.Test;
 
 public class CadenasAlumnoTest14 {
 
+	/**
+	 * Luz Feliciano Sanjuan
+	 *  Métodos de las pruebas para comprobar que el funcionamiento del método extraerSubstring 
+	 * de la clase CadenasAlumno es el correcto
+	 */
 	@Test
 	public void testExtraerSubstringStringInt1() {
 		System.out.println("Comparando dos cadenas...");
